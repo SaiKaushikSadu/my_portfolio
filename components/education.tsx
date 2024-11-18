@@ -4,7 +4,7 @@ import React from "react";
 import SectionHeading from "./section-heading";
 import { motion } from "framer-motion";
 import { useSectionInView } from "@/lib/hooks";
-import tsec from "@/public/tsec_logo.jpg";
+import tsec from "@/public/tsec_logo.png";
 import Image from "next/image";
 
 export default function Education() {
