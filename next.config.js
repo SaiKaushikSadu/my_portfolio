@@ -7,6 +7,7 @@ const nextConfig = {
         hostname: "images.unsplash.com",
       },
     ],
+    unoptimized: true, // Disable image optimization for static export
   },
   experimental: {
     serverActions: true,
